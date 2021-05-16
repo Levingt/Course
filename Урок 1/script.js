@@ -11,5 +11,5 @@ let myShop = {
     personal: {},
     open: false
 }
-console.log(myShop);
+console.log(myShop); 
 
